@@ -1,0 +1,66 @@
+/* App.css */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+/* NavBar.css */
+.NavBar {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+.NavBar h1 {
+  margin: 0;
+}
+
+/* BlogCard.css */
+.BlogCard {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.BlogCard h3 {
+  margin-top: 0;
+}
+
+/* Home.css */
+.Home {
+  margin-top: 20px;
+}
+
+/* Form.css */
+.Form {
+  margin-top: 20px;
+}
+
+.Form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.Form input {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.Form button {
+  padding: 5px 10px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.Form button:hover {
+  background-color: #555;
+}
+
+.blogcard {
+  display: flex;
+  justify-content: space-between;
+border: #333 solid;
+}
